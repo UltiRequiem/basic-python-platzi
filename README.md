@@ -45,7 +45,7 @@ Generalmente Linux ya lo trae instalado, para comprobarlo puedes ejecutar en la 
 
 Si el comando arroja un error quiere decir que no lo tienes instalado, en ese caso los pasos para instalarlo cambian un poco de acuerdo con la distribución de linux que estés usando. Generalmente el gestor de paquetes de la distribución de Linux tiene el paquete de Python
 
-#### Si eres usuario de Ubuntu o Debian por ejemplo puedes usar este comando para instalar la ultimaversión:
+#### Si eres usuario de Ubuntu o Debian por ejemplo puedes usar este comando para instalar la ultima versión:
 
 ```$ sudo apt-get install python```
 
@@ -53,7 +53,6 @@ Si el comando arroja un error quiere decir que no lo tienes instalado, en ese ca
 
 ```$ sudo yum install python```
 
-Si usas otra distribución o no has podido instalar python en tu sistema Linux dejame un comentario y vemos tu caso específico.
 
 Si eres usuario habitual de linux también puedes [descargar los archivos](https://www.python.org/downloads/source/) para instalarlo manualmente.
 
