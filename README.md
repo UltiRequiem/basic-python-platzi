@@ -24,11 +24,23 @@ Ejecuta el archivo que descargaste y sigue los pasos de instalación. Al finaliz
 ## MacOS
 La forma sencilla es tener instalado [homebrew](https://brew.sh/) y usar el comando:
 
-Para instalar la Versión 2.7
+#### Para instalar la Versión 2.7
 
 ```brew install python```
-Para instalar la Versión 3.x
+
+##### Para instalar la Versión 3.x
 
 ``brew install python3``
+
+## Linux
+Generalmente Linux ya lo trae instalado, para comprobarlo puedes ejecutar en la terminal el comando
+
+##### Versión 2.7
+
+```python -v```
+
+##### Versión 3.x
+
+```python3 -v```
 
 #### Pagina Personal de Facundo Nicolas: https://facundonicolas.com/
