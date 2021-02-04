@@ -4,7 +4,7 @@
 
 # Introducción:
 
-Este es un curso de Introducctorio al **lenguaje de Programación Python**
+Este es un curso de Introducctorio al **lenguaje de Programación Python**.
 
 En este repositorio encontraras Los ejemplos del Profesor [aquí](./EjerciciosDelProfesor), mientras qur todos mis ejercicios estaran [aquí](./Desarrollo)
 
