@@ -1,8 +1,4 @@
-<div align="center"> <h1>Curso Basico de Python</h1></div>
-
-<div align="center"> <img src="./assets/cover.jpg" width="250"> </div>
-
-# Introducción:
+# Curso Basido de Python
 
 Este es un curso de Introducctorio al **lenguaje de Programación Python**.
 
@@ -11,4 +7,5 @@ mientras que todos mis ejercicios estaran [aquí](./exercises).
 
 Las notas del curso estan [aquí](./notes.md).
 
-**Si es que este repositorio le fue util, o simplemente le gusto,considere darle una estrella.**
+**Si es que este repositorio le fue util, o simplemente le gusto,
+considera darle una estrella.**
