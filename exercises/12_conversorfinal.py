@@ -1,8 +1,9 @@
 def currency_converter(currency_type, exchange_rate):
-    currency = float(input("Cuantos "+ currency_type + " tienes?"))
+    currency = float(input("Cuantos " + currency_type + " tienes?"))
     dollars = currency / exchange_rate
     dollars = str(round(dollars, 2))
     print("Tienes $" + dollars)
+
 
 menu = """
 Conversor Facha por Zero
@@ -24,6 +25,6 @@ elif user_input == 3:
     currency_converter("pesos argentinos", 73.04)
 elif user_input == 4:
     currency_converter("soles", 3.5)
-else:      
-    print("Esa no es una opcion valida.")  
-    print('Salu2')
+else:
+    print("Esa no es una opcion valida.")
+    print("Salu2")

@@ -13,12 +13,12 @@ def es_primo(numero):
 
 
 def main():
-    numero = int(input('Escribe un numero: '))
+    numero = int(input("Escribe un numero: "))
     if es_primo(numero):
-        print('Es primo')
+        print("Es primo")
     else:
-        print('No es primo')
+        print("No es primo")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

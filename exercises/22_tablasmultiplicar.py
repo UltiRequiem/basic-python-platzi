@@ -1,7 +1,8 @@
 def tablas(numero):
-    print('Esta es la tabla del ' + str(numero) + ':')
-    for i in range(1,13):
-        print(i*numero)
+    print("Esta es la tabla del " + str(numero) + ":")
+    for i in range(1, 13):
+        print(i * numero)
+
 
 menu = """
 Las tablas de Multiplicar del  al 12 
@@ -23,29 +24,27 @@ Escoge que tabla deseas ver:
 """
 user_input = str(input(menu))
 
-if user_input == '1':
+if user_input == "1":
     tablas(1)
-elif user_input == '2':
+elif user_input == "2":
     tablas(2)
-elif user_input == '3':
+elif user_input == "3":
     tablas(3)
-elif user_input == '4':
+elif user_input == "4":
     tablas(4)
-elif user_input == '5':
+elif user_input == "5":
     tablas(5)
-elif user_input == '6':
+elif user_input == "6":
     tablas(6)
-elif user_input == '7':
+elif user_input == "7":
     tablas(7)
-elif user_input == '8':
+elif user_input == "8":
     tablas(8)
-elif user_input == '9':
+elif user_input == "9":
     tablas(9)
-elif user_input == '10':
+elif user_input == "10":
     tablas(10)
-elif user_input == '11':
+elif user_input == "11":
     tablas(11)
-elif user_input == '12':
+elif user_input == "12":
     tablas(12)
-
-
