@@ -1,6 +1,6 @@
 <div align="center"> <h1>Curso Basico de Python</h1></div>
 
-<div align="center"> <img src="./assets/cover.png" width="250"> </div>
+<div align="center"> <img src="./assets/cover.jpg" width="250"> </div>
 
 # Introducción:
 
